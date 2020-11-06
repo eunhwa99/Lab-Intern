@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/btnMain2ListSensor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="See All Sensors" />
+
+            <Button
+                android:id="@+id/btnMain2GyroscopeTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Gyroscope" />
+
+            <Button
+                android:id="@+id/btnMain2AccelerometerTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Accelerometer" />
+
+            <Button
+                android:id="@+id/btnMain2LinearAccelerometerTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Linear Accelerometer" />
+
+            <Button
+                android:id="@+id/btnMain2GravityTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Gravity" />
+
+            <Button
+                android:id="@+id/btnMain2BarometerTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Barometer" />
+
+            <Button
+                android:id="@+id/btnMain2LightTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Light" />
+
+            <Button
+                android:id="@+id/btnMain2ProximityTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Proximity" />
+
+            <Button
+                android:id="@+id/btnMain2TemperatureTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Temperature" />
+
+            <Button
+                android:id="@+id/btnMain2AmbientTemperatureTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Ambient Temperature" />
+
+            <Button
+                android:id="@+id/btnMain2HumidityTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Humidity" />
+
+            <Button
+                android:id="@+id/btnMain2MagneticFieldTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="MagneticField" />
+
+            <Button
+                android:id="@+id/btnMain2OrientationTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Orientation" />
+
+            <Button
+                android:id="@+id/btnMain2MotionTest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Main2"
+                android:text="Motion Test 1" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
