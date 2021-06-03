@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T13:48:00.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ArMNul0dZ9x-H8g2gDY9" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T13:51:23.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PFNo9jY_7-sYNG06T8BY" version="14.6.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2473" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3174" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="챌린지" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-310" width="140" height="200" as="geometry" />
+          <mxGeometry x="320" y="-250" width="140" height="200" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-2" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="150" y="390" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aAN9ZUgFc9CB5LLi9LuC-9" value="챌린지 기간(일)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-190" width="220" height="30" as="geometry" />
+          <mxGeometry x="350" y="-130" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aAN9ZUgFc9CB5LLi9LuC-10" value="할인권" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="-140" width="180" height="230" as="geometry" />
@@ -335,7 +335,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aAN9ZUgFc9CB5LLi9LuC-118" value="게시글 카테고리" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="770" width="140" height="140" as="geometry" />
+          <mxGeometry x="110" y="515" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="aAN9ZUgFc9CB5LLi9LuC-119" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aAN9ZUgFc9CB5LLi9LuC-118">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -374,7 +374,7 @@
           <mxGeometry x="30" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aAN9ZUgFc9CB5LLi9LuC-131" value="게시글(커뮤니티)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="600" width="180" height="280" as="geometry" />
+          <mxGeometry x="-200" y="600" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="aAN9ZUgFc9CB5LLi9LuC-132" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="aAN9ZUgFc9CB5LLi9LuC-131">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
