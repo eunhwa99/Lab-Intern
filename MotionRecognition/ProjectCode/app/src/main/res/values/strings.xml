@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rule-based System</string>
+
+    <string name="app_title_system1">System 1</string>
+    <string name="app_title_system2">System 2</string>
+
+    <string name="I_instruction">Practice Motion I</string>
+    <string name="S_instruction">Practice Motion S</string>
+    <string name="Z_instruction">Practice Motion Z</string>
+
+    <string name="I_subInstruction">Move much faster again</string>
+    <string name="SZ_subInstruction">Check your horizontal movement again</string>
+    <string name="Error_subInstruction">Detected messy movements. Try again</string>
+</resources>
