@@ -1,4 +1,4 @@
-## Lab intern 프로젝트 관리
+## Lab intern projects
 
 ### AllSensorForAndroid
 - Android application that searches and tests all sensors that exist in Samsung Galaxy smartphones
