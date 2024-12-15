@@ -1,23 +1,29 @@
-## Lab intern projects
-- Develop motion recognition Android application for writing a thesis paper
+# Lab intern projects
+## Motion Recognition Android Application Development
+Developed an Android-based motion recognition application as part of a lab internship to support the completion of a thesis paper.
+
+This project was executed in three distinct phases:
 
 ### Phase 1: Exploring Smartphone Sensors
 #### AllSensorForAndroid
-- Android application that searches and tests all sensors that exist in Samsung Galaxy smartphones.
-- Developed an application to investigate the types of sensors available in smartphones and conducted hands-on experiments to understand their unique characteristics. 
-- Gained valuable insights into how to work with smartphone sensors and mastered the techniques for developing sensor-based applications on the Android platform.
+- Designed and implemented an Android application to identify and test all sensors available in Samsung Galaxy smartphones.
+- Conducted hands-on experiments to understand the unique characteristics and functionalities of each sensor.
+- Acquired in-depth knowledge of sensor APIs and techniques for developing sensor-integrated Android applications.
+- [Project Deliverable](https://github.com/eunhwa99/Lab-Intern/blob/master/AllSensorforAndroid/Documents/AllSensorForAndroid.pdf)
 
 ### Phase 2: Investigate specific sensors
 #### SensorDetection
-- Android application that tests and collects data for *accelerometer and gyroscope sensor* for motion detection. It also includes *complementary filter* to upgrade accuracy of sensor data.
-- *FFT* python code to process sensor data by removing redundant
-- [Project progress & results](https://github.com/eunhwa99/Lab-Intern/tree/master/SensorDetection/Documents)
+- Developed an Android application to collect data from the accelerometer and gyroscope sensors for motion detection.
+- Implemented a complementary filter to enhance the accuracy of sensor data.
+- Processed collected sensor data using FFT (Fast Fourier Transform) in Python to remove noise and redundant information.
+- [Project Deliverable](https://github.com/eunhwa99/Lab-Intern/tree/master/SensorDetection/Documents)
 
 ### Pase 3: Write thesis paper
 #### MotionRecognition
- - Android application we used to write a thesis paper.
- - This application includes all background knowledge we learned by searching other thesis papers and developing andorid applications (AllSensorForAndroid, SensorDetection)
- - [Project process - 1](https://github.com/eunhwa99/Lab-Intern/blob/master/MotionRecognition/Documents/All%20the%20Sensors%20in%20Our%20Smartphones%20IISL.pdf)
- - [Project process - 2](https://github.com/eunhwa99/Lab-Intern/blob/master/MotionRecognition/Documents/All%20the%20Sensors%20in%20Our%20Smartphones%20IISL-2.pdf)
+- Created a comprehensive Android application that consolidated knowledge and tools developed in earlier phases (AllSensorForAndroid and SensorDetection).
+- The application facilitated the analysis required for the thesis and included research insights from academic papers.
+- Published a thesis paper utilizing the results derived from this application.
+ - [Project Deliverable - 1](https://github.com/eunhwa99/Lab-Intern/blob/master/MotionRecognition/Documents/All%20the%20Sensors%20in%20Our%20Smartphones%20IISL.pdf)
+ - [Project Deliverable - 2](https://github.com/eunhwa99/Lab-Intern/blob/master/MotionRecognition/Documents/All%20the%20Sensors%20in%20Our%20Smartphones%20IISL-2.pdf)
  - [Thesis Paper](https://github.com/eunhwa99/Lab-Intern/blob/master/MotionRecognition/Documents/KCI_FI002740831.pdf)
 
