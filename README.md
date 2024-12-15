@@ -4,9 +4,8 @@
 ### Phase 1: Exploring Smartphone Sensors
 #### AllSensorForAndroid
 - Android application that searches and tests all sensors that exist in Samsung Galaxy smartphones.
-
-In the first phase, I developed an application to investigate the types of sensors available in smartphones and conducted hands-on experiments to understand their unique characteristics. 
-Through this process, I gained valuable insights into how to work with smartphone sensors and mastered the techniques for developing sensor-based applications on the Android platform
+- Developed an application to investigate the types of sensors available in smartphones and conducted hands-on experiments to understand their unique characteristics. 
+- Gained valuable insights into how to work with smartphone sensors and mastered the techniques for developing sensor-based applications on the Android platform.
 
 ### Phase 2: Investigate specific sensors
 #### SensorDetection
